@@ -1,57 +1,56 @@
 # LegalTech Colombia Framework
 
-Comprehensive knowledge base and development reference for LegalTech in Colombia. This project integrates regulatory frameworks, technical guidelines, case studies, and compliance tools for legal professionals, developers, and entrepreneurs operating in the Colombian digital legal ecosystem.
+Base de conocimiento integral y referencia de desarrollo para LegalTech en Colombia. Este proyecto integra marcos regulatorios, directrices técnicas, casos de estudio y herramientas de cumplimiento para profesionales del derecho, desarrolladores y emprendedores que operan en el ecosistema jurídico digital colombiano.
 
-## Project Overview
+## Descripción General del Proyecto
 
-The LegalTech Colombia Framework provides structured documentation and reference implementations covering:
+El LegalTech Colombia Framework proporciona documentación estructurada e implementaciones de referencia que abarcan:
 
-- Colombian legal frameworks for digital transformation (Ley 527/1999, Ley 2213/2022, Circular SIC 002/2024)
-- Jurimetrics and algorithmic auditing for judicial analytics
-- Digital identity, KYC, and authentication under SARLAFT and Ley 1581/2012
-- Cybersecurity, digital evidence, and chain of custody
-- AI applications in legal services: LLMs, RAG, and ethical compliance
-- Blockchain, smart contracts, NFTs, and emerging digital rights
-- Trademark protection, consumer rights, and financial habeas data
-- Practical deliverables: risk matrices, KYC flows, expert reports
+- Marcos legales colombianos para la transformación digital (Ley 527/1999, Ley 2213/2022, Circular SIC 002/2024)
+- Jurimetría y auditoría algorítmica para analítica judicial
+- Identidad digital, KYC y autenticación bajo SARLAFT y Ley 1581/2012
+- Ciberseguridad, evidencia digital y cadena de custodia
+- Aplicaciones de IA en servicios legales: LLMs, RAG y cumplimiento ético
+- Blockchain, contratos inteligentes, NFTs y derechos digitales emergentes
+- Protección de marcas, derechos del consumidor y habeas data financiero
+- Productos prácticos: matrices de riesgo, flujos KYC, dictámenes periciales
 
-The repository includes a Next.js web application for browsing documentation, case blogs, and interactive compliance checkers, alongside engineering best practices for hybrid R/Python LegalTech stacks.
+El repositorio incluye una aplicación web en Next.js para navegar por la documentación, blogs de casos y verificadores interactivos de cumplimiento, junto con buenas prácticas de ingeniería para stacks híbridos de LegalTech con R y Python.
 
-## Repository Structure
+## Estructura del Repositorio
 
-- `app/` – Next.js App Router (pages, layouts, API routes)
-- `components/` – Reusable UI components (cards, tables, visualizations)
-- `data/` – Static content: blog cases, regulatory timelines
-- `docs/` – Course modules and normative references (Markdown)
-- `public/` – Static assets (icons, PDF templates)
-- `styles/` – Global CSS with LegalTech design system
-- `lib/` – Utility functions, data fetching, validation
-- `references/` – Manuals: engineering guide, case format, aesthetics
+- `app/` – Next.js App Router (páginas, layouts, rutas API)
+- `components/` – Componentes de UI reutilizables (tarjetas, tablas, visualizaciones)
+- `data/` – Contenido estático: casos del blog, líneas de tiempo regulatorias
+- `docs/` – Módulos del curso y referencias normativas (Markdown)
+- `public/` – Activos estáticos (iconos, plantillas PDF)
+- `styles/` – CSS global con el sistema de diseño LegalTech
+- `lib/` – Funciones utilitarias, obtención de datos, validación
+- `references/` – Manuales: guía de ingeniería, formato de caso, estética
 
-text
+## Documentación Clave
 
-## Key Documentation
+- **Módulos del Curso**: Nueve lecciones estructuradas desde los fundamentos de LegalTech hasta la integración práctica.
+- **Blog de Casos**: Formato estandarizado para analizar incidentes legales-tecnológicos con niveles de riesgo, citas regulatorias y referencias a fuentes.
+- **Manual de Ingeniería**: Recomendaciones de stack (R + FastAPI + Shiny), patrones de arquitectura, cumplimiento de seguridad (Ley 1581) y estrategias de despliegue.
+- **Sistema de Diseño**: Paleta de colores (azules profesionales, indicadores de riesgo, púrpura estadístico), tipografía (Inter), accesibilidad (WCAG AA).
 
-- Course Modules: Nine structured lessons from foundational LegalTech to practical integration.
-- Case Blog: Standardized format for analyzing legal-tech incidents with risk levels, regulatory citations, and source references.
-- Engineering Manual: Stack recommendations (R + FastAPI + Shiny), architecture patterns, security compliance (Ley 1581), and deployment strategies.
-- Design System: Color palette (professional blues, risk indicators, statistical purple), typography (Inter), accessibility (WCAG AA).
+## Primeros Pasos
 
-## Getting Started
+### Requisitos Previos
 
-### Prerequisites
+- Node.js 20.x o superior
+- npm, yarn, pnpm o bun
 
-- Node.js 20.x or later
-- npm, yarn, pnpm, or bun
+### Instalación
 
-### Installation
-
-Clone the repository and install dependencies:
+Clona el repositorio e instala las dependencias:
 
 ```bash
 git clone https://github.com/your-org/legaltech-colombia.git
 cd legaltech-colombia
 npm install
+
 Development Server
 Run the development server:
 
