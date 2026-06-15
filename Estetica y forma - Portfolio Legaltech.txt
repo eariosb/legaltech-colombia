@@ -1,0 +1,141 @@
+1. Paleta de colores
+Inspiración: confianza, precisión, claridad, autoridad legal y datos estadísticos.
+
+Color	Código HEX	Nombre	Uso principal
+Azul Profesional	#1E3A8A	Navy Trust	Encabezados, barras laterales, acentos primarios, botones principales. Transmite autoridad, seguridad, legal.
+Azul Claro / Aire	#3B82F6	Blue Sky	Enlaces, elementos interactivos, gráficos principales. Refuerza tecnología y accesibilidad.
+Gris Neutral	#F3F4F6	Light Gray	Fondos de paneles, tarjetas, separadores. Limpio, profesional.
+Gris Medio	#6B7280	Cool Gray	Textos secundarios, bordes, íconos.
+Blanco	#FFFFFF	White	Fondo principal de áreas de contenido, tarjetas. Máximo contraste.
+Verde / Éxito	#10B981	Emerald	Indicadores de cumplimiento, bajos riesgos, confirmaciones.
+Ámbar / Advertencia	#F59E0B	Amber	Riesgos medios, umbrales cercanos, alertas suaves.
+Rojo / Crítico	#EF4444	Red	Riesgos altos, incumplimientos, errores, fechas vencidas.
+Púrpura / Estadístico	#8B5CF6	Purple	Elementos relacionados con métodos bayesianos, intervalos de credibilidad, gráficos de densidad.
+Azul Oscuro / Profundo	#0F172A	Slate 900	Texto principal, títulos. Alto contraste para legibilidad.
+Aplicación:
+
+Riesgo: escala de verde (bajo) → ámbar (medio) → rojo (alto).
+
+Estadística: el púrpura se reserva para visualizaciones de distribuciones posteriores, intervalos de credibilidad, etc.
+
+Legal: el azul profesional domina encabezados, logotipo, botones de acción.
+
+
+
+2. Ergonomía y flujo intuitivo
+Principios:
+
+Jerarquía clara: cada pantalla tiene una zona superior con título y descripción del problema, luego controles, luego resultados.
+
+Formularios en columna única (excepto selección múltiple) para evitar fatiga visual.
+
+Progresión guiada: usar pestañas (tabs) o acordeones para separar entrada de datos, resultados, explicaciones técnicas.
+
+Feedback inmediato: en Shiny, uso de shinyWidgets::progressBar o mensajes de estado; en Python/Streamlit, spinners.
+
+Accesibilidad: contraste WCAG AA, tamaño de fuente mínimo 14px para texto principal, etiquetas en mayúsculas suaves.
+
+Componentes comunes:
+
+Tarjetas (cards) para KPIs, métricas de riesgo.
+
+Tablas interactivas (DT en Shiny, st.dataframe en Streamlit) con opciones de búsqueda y ordenamiento.
+
+Botones de acción destacados con el azul profesional.
+
+Ayuda contextual: tooltips en íconos (❓) explicando términos legales o estadísticos.
+
+
+
+3. Armonía visual
+Tipografía:
+
+Títulos: Inter (sans‑serif moderna, limpia) o Roboto.
+
+Cuerpo: Inter o Lato.
+
+Monospace para fragmentos de código o entidades extraídas: Fira Code o JetBrains Mono.
+
+Espaciado: grid de 8px; márgenes amplios (padding 24px en contenedores principales).
+
+Iconografía: usar íconos consistentes (FontAwesome o Material Icons) con significado universal:
+
+📊 para estadística
+
+⚖️ para legal
+
+🌍 para países
+
+🔔 para alertas
+
+📄 para documentos
+
+🧠 para bayesiano
+
+Visualizaciones:
+
+Gráficos de barras para comparativas.
+
+Mapas de calor (plotly) con gradiente azul (bajo) a rojo (alto).
+
+Gráficos de densidad con intervalo de credibilidad en púrpura.
+
+Gauge o indicadores circulares para probabilidades.
+
+
+
+4. Potencia estadística visible
+Mostrar incertidumbre: intervalos de credibilidad en todas las predicciones (ej. “Probabilidad de superar umbral: 72% [65%–79%]”).
+
+Explicaciones accesibles: incluir un panel desplegable “¿Cómo se calculó esto?” con descripción no técnica del modelo bayesiano usado.
+
+Visualizaciones de distribuciones: para las proyecciones de ventas, incluir el gráfico de la distribución posterior con la media y los percentiles 2.5 y 97.5.
+
+Métricas de validación: mostrar pequeñas notas de validación (AUC, precisión) para modelos predictivos, con explicación de su significado.
+
+
+
+5. Rigor legal en el diseño
+Uso de lenguaje preciso: evitar jerga innecesaria; cuando se use, definir en tooltip.
+
+Alertas con base legal: en los informes de riesgo, incluir el fundamento legal (ej. “Según la Directiva 2006/112/CE, art. 3…”).
+
+Descargables: todos los informes (PDF) deben tener un pie de página con descargo de responsabilidad: “Esta herramienta es de apoyo; no constituye asesoría legal. Consulte con un experto para decisiones finales.”
+
+Fuentes de datos: indicar en la interfaz la fecha de última actualización de las reglas y la fuente (ej. “Reglas basadas en la normativa vigente al 1 de marzo de 2025, fuente: EUR‑Lex”).
+
+Transparencia: para modelos predictivos (UDRP, NER, etc.), incluir una sección “Limitaciones del modelo” con ejemplos de casos donde podría fallar.
+
+
+
+6. Valores estéticos y emocionales
+Valor	Manifestación en diseño
+Confianza	Azul profundo, bordes limpios, ausencia de ornamentos excesivos.
+Precisión	Tipografía clara, espaciado exacto, alineación de elementos.
+Accesibilidad	Alto contraste, textos grandes, navegación por teclado.
+Innovación	Acentos de color púrpura en elementos estadísticos avanzados, microinteracciones suaves.
+Claridad	Uso de espacios en blanco, jerarquía visual, eliminación de ruido.
+
+
+7. Implementación técnica unificada
+Para Shiny (R):
+
+Usar temas de shinythemes::themeSelector() pero personalizar con CSS propio que refleje la paleta.
+
+Crear un archivo www/styles.css con variables CSS: :root { --primary: #1E3A8A; ... }.
+
+Aplicar clases a elementos para consistencia entre apps.
+
+Para Streamlit (Python):
+
+Usar configuración en .streamlit/config.toml para definir colores primarios, fondo, tipografía.
+
+Inyectar CSS personalizado con st.markdown para sobrescribir estilos.
+
+Usar componentes como st.columns para respetar el grid.
+
+Para FastAPI:
+
+Las páginas de documentación (/docs) usarán también la paleta (Swagger UI puede personalizarse).
+
+

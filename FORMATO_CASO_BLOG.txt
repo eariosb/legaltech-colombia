@@ -1,0 +1,205 @@
+═══════════════════════════════════════════════════════════════════════════════
+  GUÍA DE FORMATO — CASOS DE INTERÉS LEGALTECH
+  Para redactores del blog de análisis jurídico-tecnológico
+  Versión 1.0 · Abril 2026
+═══════════════════════════════════════════════════════════════════════════════
+
+Este documento le dice al redactor exactamente cómo estructurar el archivo
+.txt de un nuevo caso para que pueda integrarse a la webapp sin fricción.
+El desarrollador toma este .txt y crea la entrada en /data/blog.ts.
+
+───────────────────────────────────────────────────────────────────────────────
+  BLOQUE 1 · METADATOS DEL CASO (obligatorios)
+───────────────────────────────────────────────────────────────────────────────
+
+TÍTULO: [Título del caso — máx. 100 caracteres]
+  Ej: Hack en Vercel expone credenciales de millones de frontends
+
+SUBTÍTULO: [Una frase que complementa el título — máx. 120 caracteres]
+  Ej: El vector de ataque que nadie vio venir: de un script de Roblox a una crisis global
+
+FECHA: [AAAA-MM-DD del evento o publicación]
+  Ej: 2026-04-19
+
+CATEGORÍA: [Una sola, de la lista permitida]
+  Opciones: Ciberseguridad | Blockchain | Inteligencia Artificial |
+            Privacidad y Datos | Fintech | Regulación |
+            Contratos Digitales | Acceso a la Justicia
+
+NIVEL DE RIESGO: [alto | medio | bajo]
+  · alto  → amenaza directa a derechos, datos o activos (color rojo)
+  · medio → riesgo operacional o normativo relevante (color ámbar)
+  · bajo  → caso ilustrativo, oportunidad o cambio regulatorio suave (color verde)
+
+ETIQUETAS: [Palabras clave separadas por comas — máx. 8]
+  Ej: cadena de suministro, OAuth, shadow AI, criptomonedas, malware
+
+COLOR ACENTO: [Código HEX del color dominante del caso — ver paleta al final]
+  Ej: #EF4444
+
+RESUMEN EJECUTIVO: [3-4 frases que sinteticen el caso y su relevancia.
+  Aparece en la tarjeta del listado. Sin tecnicismos innecesarios.]
+
+───────────────────────────────────────────────────────────────────────────────
+  BLOQUE 2 · SECCIONES DEL ARTÍCULO
+───────────────────────────────────────────────────────────────────────────────
+
+Cada sección lleva un número de dos dígitos (01, 02, …), una etiqueta corta
+y un título descriptivo. El cuerpo puede tener párrafos libres.
+Si la sección termina con una lista de ítems concretos, se marcan con "·".
+
+FORMATO:
+  [NN] · [Etiqueta corta]
+  [Título de la sección]
+  [Párrafo 1]
+  [Párrafo 2]
+  ···
+  · Item de lista 1
+  · Item de lista 2
+
+SECCIONES RECOMENDADAS (adaptar según el caso):
+
+  01 · Resumen Ejecutivo
+  ¿Qué pasó, por qué importa y cuál es la magnitud del incidente?
+
+  02 · El Punto de Origen
+  ¿Cómo empezó? ¿Quién fue el primer eslabón? Contexto y actores.
+
+  03 · La Cadena de Ataque / El Mecanismo
+  Descripción técnica o jurídica del proceso central del caso.
+
+  04 · El Impacto
+  Consecuencias reales: económicas, jurídicas, para usuarios o ciudadanos.
+
+  05 · La Respuesta
+  ¿Cómo reaccionaron los actores involucrados? ¿Qué medidas se tomaron?
+
+  06 · Cronología
+  Línea de tiempo en orden cronológico (ver Bloque 3 para su formato).
+
+  07 · Reacciones de la Industria / Expertos
+  Declaraciones, análisis de terceros, reacciones del ecosistema.
+
+  08 · Lecciones Aprendidas
+  Qué debería cambiar. Recomendaciones prácticas para abogados y developers.
+
+  ※ Las secciones son flexibles. Puede agregar, quitar o renombrar según el caso.
+  ※ La sección 06 Cronología SIEMPRE va en Bloque 3 con su formato especial.
+
+───────────────────────────────────────────────────────────────────────────────
+  BLOQUE 3 · CRONOLOGÍA (formato especial)
+───────────────────────────────────────────────────────────────────────────────
+
+La cronología se renderiza como una línea de tiempo visual. Usar este formato:
+
+CRONOLOGÍA:
+  [Fecha legible] → [Evento en una o dos frases]
+  [Fecha legible] → [Evento en una o dos frases]
+  ···
+
+  Ej:
+  Febrero 2026 → Un empleado de Context.ai descarga un script malicioso para Roblox.
+  19 Abril 2026 → Vercel publica un boletín de seguridad confirmando el acceso no autorizado.
+
+───────────────────────────────────────────────────────────────────────────────
+  BLOQUE 4 · CONCLUSIONES CLAVE (3 a 5 ítems)
+───────────────────────────────────────────────────────────────────────────────
+
+Son las ideas que el lector debe llevarse. Orientadas al operador jurídico
+o al desarrollador LegalTech. Incluir, cuando aplique, referencia a la
+normativa colombiana o internacional.
+
+CONCLUSIONES:
+  · [Conclusión 1]
+  · [Conclusión 2]
+  · [Conclusión 3]
+
+───────────────────────────────────────────────────────────────────────────────
+  BLOQUE 5 · MARCO NORMATIVO
+───────────────────────────────────────────────────────────────────────────────
+
+Una sola línea con las normas relevantes (colombianas primero, luego internacionales).
+
+MARCO NORMATIVO: [Leyes, decretos, circulares, reglamentos]
+  Ej: Colombia: Ley 1581/2012 (Habeas Data), Ley 527/1999.
+      Internacional: GDPR (Reglamento UE 2016/679), NIST CSF.
+
+───────────────────────────────────────────────────────────────────────────────
+  BLOQUE 6 · FUENTES
+───────────────────────────────────────────────────────────────────────────────
+
+FUENTES:
+  - [Fuente 1: institución o medio, fecha]
+  - [Fuente 2]
+  ···
+
+───────────────────────────────────────────────────────────────────────────────
+  PALETA DE COLORES ACENTO DISPONIBLES
+───────────────────────────────────────────────────────────────────────────────
+
+  #EF4444  Rojo     → Ciberseguridad, brechas, riesgo alto
+  #F59E0B  Ámbar    → Regulación, alertas, riesgo medio
+  #10B981  Verde    → Acceso a la justicia, cumplimiento, oportunidades
+  #3B82F6  Azul     → Privacidad y datos, IA, aspectos tecnológicos
+  #8B5CF6  Púrpura  → Blockchain, contratos inteligentes, jurimetría
+  #1E3A8A  Navy     → Fintech, regulación financiera
+  #0F172A  Slate    → Casos neutros, análisis institucionales
+
+───────────────────────────────────────────────────────────────────────────────
+  EJEMPLO COMPLETO (extracto abreviado)
+───────────────────────────────────────────────────────────────────────────────
+
+TÍTULO: Deepfake de CEO colombiano usa IA para desviar $400M en transferencias
+SUBTÍTULO: Cuando la voz y el rostro ya no son prueba suficiente de identidad
+FECHA: 2026-03-05
+CATEGORÍA: Inteligencia Artificial
+NIVEL DE RIESGO: alto
+ETIQUETAS: deepfake, identidad digital, fraude, KYC, IA generativa, fintech
+COLOR ACENTO: #3B82F6
+RESUMEN EJECUTIVO: En marzo de 2026, una empresa logística bogotana transfirió
+$400 millones de pesos a cuentas fraudulentas tras una videollamada donde un
+deepfake suplantó al CEO. El caso reabre el debate sobre la validez jurídica
+de la identidad biométrica y los límites de la debida diligencia en Colombia.
+
+01 · Resumen Ejecutivo
+¿Qué tan confiable es una cara?
+[Párrafo del resumen...]
+
+02 · El Mecanismo del Fraude
+El ataque de identidad sintética paso a paso
+[Párrafo...]
+
+06 · Cronología
+
+CRONOLOGÍA:
+  5 Febrero 2026 → El equipo financiero recibe una solicitud de reunión urgente del "CEO".
+  5 Marzo 2026   → La videollamada se realiza. El deepfake instruye la transferencia.
+  6 Marzo 2026   → El banco detecta la anomalía. Los fondos ya no son recuperables.
+
+CONCLUSIONES:
+  · En Colombia, la Ley 527/1999 reconoce la firma electrónica pero no regula
+    explícitamente la autenticación biométrica frente a deepfakes.
+  · La debida diligencia KYC debe incluir verificación de liveness detection
+    y no puede basarse únicamente en reconocimiento facial estático.
+
+MARCO NORMATIVO: Colombia: Ley 527/1999, Circular SIC 002/2024.
+
+FUENTES:
+  - Superintendencia Financiera de Colombia — Circular externa 007 de 2026
+  - Europol — AI Threat Assessment 2025
+
+═══════════════════════════════════════════════════════════════════════════════
+  CHECKLIST ANTES DE ENTREGAR EL .TXT
+═══════════════════════════════════════════════════════════════════════════════
+
+  □ ¿El título tiene menos de 100 caracteres?
+  □ ¿El resumen ejecutivo está en el encabezado Y en la sección 01?
+  □ ¿La cronología usa el formato de flechas (→) del Bloque 3?
+  □ ¿Hay entre 3 y 5 conclusiones clave?
+  □ ¿Se citó al menos una norma colombiana en el marco normativo?
+  □ ¿Las fuentes son verificables y tienen fecha?
+  □ ¿El nivel de riesgo es coherente con el contenido?
+  □ ¿El color acento coincide con la categoría según la paleta?
+
+  Ante dudas, escribir a: eariosb@unal.edu.co
+═══════════════════════════════════════════════════════════════════════════════

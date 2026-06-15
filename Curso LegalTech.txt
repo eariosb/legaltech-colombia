@@ -1,0 +1,21 @@
+Transformación Digital Legal en Colombia: LegalTech, IA y Nuevos Retos Jurídicos
+
+¿Estás listo para liderar el cambio en el derecho colombiano? En un mundo donde la tecnología redefine la práctica legal, este curso te guía a través de la transformación digital del sector jurídico en Colombia. Descubre cómo las leyes clave, la inteligencia artificial, el blockchain y la jurimetría abren nuevas oportunidades y desafíos éticos para abogados, desarrolladores y emprendedores LegalTech. Aprenderás a identificar los marcos normativos más relevantes, aplicar tecnologías emergentes, fortalecer la ciberseguridad y crear o gestionar  soluciones digitales que cumplen con la regulación nacional. Da el siguiente paso para convertirte en un referente LegalTech: domina las herramientas, comprende los riesgos y aprovecha el futuro del derecho en Colombia.
+
+Panorama LegalTech en Colombia: Contexto y Fundamentos
+
+Marcos Normativos Clave para LegalTech en Colombia
+
+Jurimetría y Auditoría Algorítmica: Estadística en Decisiones Jurídicas
+
+Identidad Digital, KYC y Autenticación en el Sector Legal
+
+Cibercrimen y Prueba Digital: Seguridad Jurídica en la Era Digital
+
+Inteligencia Artificial Aplicada al Derecho: Métodos y Ética
+
+Blockchain, Smart Contracts y Nuevos Derechos Digitales
+
+Protección de Marcas, Consumidor Digital y Habeas Data Financiero
+
+Integración Práctica: Desarrollo de Entregables y Herramientas LegalTech

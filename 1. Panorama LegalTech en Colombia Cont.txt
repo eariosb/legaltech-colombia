@@ -1,0 +1,106 @@
+Panorama LegalTech en Colombia: Contexto y Fundamentos
+
+El Derecho Colombiano ante la Transformación Digital: ¿Por qué importa el LegalTech hoy?
+
+El sector legal en Colombia está experimentando una transformación sin precedentes gracias al avance de la tecnología. La digitalización no solo está cambiando la forma en que se prestan los servicios jurídicos, sino que también está abriendo nuevas oportunidades para abogados, desarrolladores y emprendedores. Adaptarse a este cambio es esencial: quienes comprendan y dominen las herramientas digitales estarán mejor preparados para responder a las demandas del mercado, innovar en sus prácticas y liderar el futuro del derecho. Este curso te invita a descubrir por qué el LegalTech es hoy más relevante que nunca y cómo puedes ser parte activa de esta revolución.
+
+En esta lección, te guiaremos a través de los principales aspectos relacionados con el impacto de la transformación digital en el derecho colombiano y el desarrollo del LegalTech en el país.
+
+1. Entender cómo la transformación digital impacta el derecho colombiano.
+
+2. Identificar las leyes clave que han impulsado el LegalTech en Colombia.
+
+3. Reconocer oportunidades y desafíos para diferentes actores del ecosistema legal.
+
+4. Analizar el estado actual y las tendencias futuras del LegalTech nacional.
+
+Durante décadas, el derecho colombiano se caracterizó por procesos tradicionales y una lenta adopción de nuevas tecnologías. Sin embargo, factores como la pandemia, la promulgación de leyes innovadoras y la presión de tendencias tecnológicas globales han acelerado la digitalización del sector jurídico. Hoy, la transformación digital es una realidad ineludible que redefine la práctica legal y exige nuevas competencias. Esta lección te dará las bases para comprender cómo y por qué el LegalTech se ha convertido en un pilar fundamental para el futuro del derecho en Colombia.
+
+
+Hitos clave en la transformación digital del derecho en Colombia:
+
+La transformación digital ha revolucionado el sector jurídico en Colombia, permitiendo mayor eficiencia, acceso y transparencia en los procesos legales. A continuación, se presentan los principales hitos que han marcado este proceso de cambio.
+
+
+Pre-1999
+Práctica legal tradicional
+Antes de la digitalización, los procesos jurídicos en Colombia se realizaban en papel, con trámites presenciales y archivos físicos, lo que limitaba la eficiencia y el acceso a la justicia.
+
+1999
+Ley 527/1999 – Firma electrónica
+Esta ley reconoció la validez jurídica de los mensajes de datos y la firma electrónica, sentando las bases para la digitalización de documentos y transacciones legales
+
+2020
+Decreto 806/2020 – Justicia digital
+En respuesta a la pandemia, este decreto impulsó la implementación de expedientes electrónicos y audiencias virtuales, acelerando la adopción de herramientas digitales en la justicia.
+
+
+2022
+Ley 2213/2022 – Justicia digital permanente
+Esta ley consolidó la justicia digital como una política permanente, permitiendo la continuidad de procesos electrónicos y fortaleciendo la transformación digital en el sector.
+
+2024
+Circular SIC 002/2024 – Regulación de IA y datos
+La Superintendencia de Industria y Comercio emitió esta circular para regular el uso de inteligencia artificial y la protección de datos, marcando un nuevo estándar para la innovación tecnológica en el ámbito legal.
+
+
+¿Cómo afectan estos cambios a los distintos actores del ecosistema legal?
+
+Explora cómo la transformación digital impacta a los principales perfiles dentro del sector jurídico colombiano. Cada grupo enfrenta retos y oportunidades particulares, que requieren nuevas habilidades y enfoques para aprovechar al máximo el LegalTech.
+
+Abogados en exercised: Dilemas y oportunidades frente a clientes que demandan:
+Muchos abogados se enfrentan a preguntas sobre contratos electrónicos, inteligencia artificial y blockchain. La digitalización les exige actualizarse para responder a clientes informados y no perder competitividad frente a colegas más jóvenes o tecnológicamente preparados.
+
+Estudiantes de derecho: Nuevas competencias digitales requeridas para la empleabilidad:
+Los estudiantes reconocen que el mercado laboral exige habilidades digitales que no siempre se enseñan en la universidad. Aprender sobre LegalTech les da una ventaja diferenciadora y los prepara para las demandas del futuro profesional.
+
+Developers en empresas legales: Riesgos y responsabilidades al crear herramientas legales:
+Los desarrolladores que trabajan en soluciones para el sector jurídico deben comprender el marco legal para evitar errores costosos y garantizar que sus productos cumplan con la normativa vigente.
+
+
+Emprendedores LegalTech: Necesidad de conocer el marco normativo antes de innovar:
+Quienes desean lanzar startups o productos LegalTech deben entender las leyes aplicables desde el inicio, para evitar sanciones y estructurar soluciones viables y sostenibles.
+
+Creativos y asistentes legales: Espacios emergentes en la digitalización de procesos:
+La digitalización abre nuevas oportunidades para asistentes legales, paralegales y creativos, quienes pueden especializarse en la gestión de información digital, automatización de tareas y diseño de experiencias jurídicas innovadoras.
+
+
+Conceptos clave del curso
+Familiarízate con los conceptos clave que escucharás durante el curso. Estos términos te ayudarán a comprender mejor los temas que se abordarán.
+
+
+
+¿Qué es LegalTech?
+LegalTech es el uso de tecnología para mejorar, automatizar o transformar servicios y procesos legales.
+
+
+¿Qué significa Transformación Digital?
+La Transformación Digital es la integración de tecnologías digitales en todas las áreas de una organización, cambiando su funcionamiento y entrega de valor.
+
+¿Qué es una Firma Electrónica?
+La Firma Electrónica es un método digital que permite autenticar la identidad y voluntad de una persona en documentos electrónicos.
+
+¿Qué es la Jurimetría?
+La Jurimetría es la aplicación de métodos estadísticos y cuantitativos para analizar decisiones y procesos jurídicos.
+
+
+La transformación digital es más que implementar tecnología; representa una oportunidad para democratizar el acceso a la justicia en Colombia.
+
+Desafíos y Oportunidades del LegalTech en Colombia
+
+Reflexiona sobre los retos que enfrenta el sector legal colombiano en su proceso de digitalización y descubre las oportunidades que surgen para quienes se adaptan e innovan. Expande cada pestaña para ver ejemplos y datos concretos.
+
+Desafíos
+Uno de los principales desafíos es la resistencia cultural al cambio, tanto en instituciones como en profesionales acostumbrados a métodos tradicionales. Esta barrera se traduce en una lenta adopción de nuevas tecnologías y en la necesidad de programas de capacitación específicos.
+La brecha digital también representa un obstáculo importante: no todos los actores del sector tienen acceso igualitario a herramientas tecnológicas o a la conectividad necesaria. Además, los retos regulatorios y la falta de claridad normativa pueden frenar la innovación y generar incertidumbre jurídica.
+
+Oportunidades
+La digitalización permite aumentar la eficiencia en la gestión de procesos legales, reduciendo tiempos y costos para abogados, empresas y usuarios. Esto abre la puerta a la creación de nuevos modelos de negocio y servicios jurídicos innovadores.
+El LegalTech también facilita el acceso a la justicia para poblaciones tradicionalmente excluidas, promoviendo la inclusión y la transparencia. Además, quienes lideran la adopción tecnológica pueden posicionarse como referentes y acceder a mercados emergentes en el sector legal.
+
+
+
+
+
+
+

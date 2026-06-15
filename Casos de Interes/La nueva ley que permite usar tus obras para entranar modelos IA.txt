@@ -1,0 +1,65 @@
+La nueva ley que permite usar tus obras para entrenar IA (sin pedirte permiso)… y por qué esto nos afecta a todos
+Por [Tu nombre]
+
+Hace unos días leí un artículo en EstadoDiario que me dejó pensando. Hablaban de una pequeña gran modificación que viene escondida en un proyecto de ley gigante —el de la “reconstrucción nacional”, apodado cariñosamente “ley tutti frutti”—. Y entre medio de rebajas tributarias y permisos varios, se cuela una excepción al derecho de autor que, si no andamos atentos, puede cambiar las reglas del juego para cualquiera que cree algo original.
+
+Básicamente, la norma propone que se pueda usar tu obra —una foto que subiste a Instagram, un artículo que escribiste con esfuerzo, una canción que compusiste en tu casa— para “minería de datos” y entrenamiento de inteligencia artificial, sin que te pidan permiso ni te paguen. Siempre y cuando no sea una “explotación encubierta”. ¿Y qué es eso? Nadie lo sabe.
+
+Las autoras del artículo, Daniela Aranda y Paula Droguett, lo explican muy bien: el problema no es que exista una excepción, sino que es tan amplia y difusa que en la práctica deja a los creadores sin herramientas para defenderse.
+
+Pero yo quiero ir un paso más allá. Porque vengo del mundo de la ingeniería de software y la estadística, y me paso el día construyendo herramientas legales con datos, algoritmos y modelos. Y lo que veo es esto: no solo la ley es imprecisa; es que además no tenemos la tecnología adecuada para medir, auditar o demostrar nada en este mundo de cajas negras que son los modelos de IA. Y ahí es donde tú y yo podemos hacer algo.
+
+A ver, pongámonos en un caso real
+Imagina que eres ilustrador. Pasaste semanas dibujando una serie de personajes. Los subes a Behance, los promocionas en redes. Un día, entras a una plataforma de IA generativa y escribes: “dibujo estilo [tu nombre]”… y sale algo calcado a lo tuyo. No idéntico, pero muy parecido.
+
+¿Qué puedes hacer? Según esta nueva ley, tendrías que demostrar:
+
+Que tu obra fue parte del entrenamiento del modelo.
+
+Que el modelo, al responder, genera algo vinculado a tu obra.
+
+Que eso es “explotación encubierta”.
+
+Demostrar eso hoy es casi misión imposible. Los datos de entrenamiento son secretos, los modelos son opacos y los abogados te pedirán un informe pericial que cuesta un ojo de la cara.
+
+¿Y si te dijera que la tecnología puede ayudar a cerrar esa brecha? No con una varita mágica, sino con estadística, algoritmos y diseño inteligente.
+
+Decir “esto es mío y aquí está la prueba”
+Llevo años construyendo aplicaciones de legaltech (puedes verlas en mi portfolio). No son teorías, son herramientas que ya funcionan. Una de ellas, por ejemplo, es un sistema de anclaje de evidencias a la blockchain (Blockchain Evidence Vault). Suena técnico, pero en cristiano: te permite subir una prueba —una captura de pantalla, un contrato, tu obra— y dejar sellada para siempre una huella digital que demuestra que existía en un momento concreto. Es como un notario público pero automático e inmutable.
+
+Si todos los creadores pudieran anclar sus obras antes de que circularan, luego podrían demostrar que una IA las “vio” durante su entrenamiento. No es 100% infalible, pero ya es mucho más de lo que tenemos hoy.
+
+Medir la “explotación encubierta” con números (sin magia)
+El otro problema es ese concepto fantasmal: “explotación encubierta”. ¿Cómo se mide? Pues podemos medirlo.
+
+En otro de mis proyectos (Bayesian Legislative Research Assistant) aplico métodos bayesianos —una rama de la estadística que trabaja con incertidumbre— para calificar la fiabilidad de respuestas legales. La misma idea sirve para comparar un output de IA con tu obra original: miramos su parecido semántico, si compite en el mismo mercado, si reproduce fragmentos largos… y todo eso lo combinamos en un índice de riesgo con intervalos de confianza.
+
+O sea, en lugar de decir “sí o no”, decimos: “hay un 87% de probabilidad de que este output esté explotando tu obra, con un margen de entre 82% y 91%”. Un juez o un árbitro puede trabajar con eso perfectamente.
+
+¿Y por qué esto nos importa a todos?
+Porque hoy eres tú el ilustrador. Mañana puede ser tu pequeño negocio de e‑commerce que vende camisetas con diseños originales. O tu blog donde escribes reseñas con años de trabajo. O tu canal de YouTube.
+
+La IA no va a desaparecer. Está bien que se use, que ayude a crear, que analice datos. Pero sin reglas claras ni herramientas técnicas para hacer valer tus derechos, el más fuerte —el que tiene los datos, los modelos y los abogados— siempre gana.
+
+El legaltech que practico no es para entendidos ni para grandes corporaciones. Es para que cualquiera pueda ponerle números y pruebas a sus reclamos. Es para que un creador independiente pueda generar un reporte automático que diga: “mira, este modelo está replicando mi estilo, y aquí tienes las métricas”.
+
+Pequeñas acciones, grandes cambios
+No necesitamos esperar a que el Congreso defina perfectamente “explotación encubierta”. Podemos empezar ya a usar herramientas de:
+
+Registro descentralizado de obras (yo recomiendo anclar hashes en blockchain, es barato y fácil).
+
+Dashboards de monitoreo que revisen periódicamente si las IA están generando outputs sospechosos.
+
+Modelos de riesgo bayesianos para cuantificar la probabilidad de infracción.
+
+Todo eso ya lo he construido en distintos proyectos (Legal Document Ingestion, Global IP Portfolio Manager, el asistente legislativo…). Están disponibles, se pueden adaptar y no se necesita un doctorado para usarlos.
+
+La idea final
+La ley es importante. Pero no podemos quedarnos solo con eso. Necesitamos tecnología que haga cumplir la ley, que cierre la brecha entre lo que dice un texto normativo y lo que pasa en el mundo real de los algoritmos.
+
+Así que si eres creador, emprendedor o simplemente alguien que cree que el esfuerzo original merece respeto: exige herramientas, no solo leyes. Y si quieres ver cómo se hace, aquí estoy para mostrarte los proyectos, compartir código o armar una demo.
+
+Porque esto no es un problema de “ellos”. Es un problema nuestro. Y tenemos con qué responder.
+
+ARTICULO DE REFERENCIA
+https://estadodiario.com/columnas/mineria-de-datos-inteligencia-artificial-y-derecho-de-autor-la-excepcion-que-llego-por-la-puerta-lateral/

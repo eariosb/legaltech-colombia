@@ -1,0 +1,133 @@
+Marcos Normativos Clave para LegalTech en Colombia
+
+El Marco Legal como Motor de la Innovación LegalTech
+
+La transformación digital del derecho en Colombia no sería posible sin un marco normativo sólido que respalde y regule el uso de tecnologías en el sector legal. Comprender estas normas no solo es clave para cumplir la ley, sino para impulsar la innovación, la confianza y la adopción de soluciones LegalTech. Dominar el entorno regulatorio te permitirá crear, implementar y utilizar herramientas digitales con seguridad y visión de futuro.
+
+
+En esta lección, te guiaremos a través de los principales aspectos legales y éticos relacionados con la digitalización jurídica en Colombia:
+
+1. Identificar las leyes y decretos que habilitan la digitalización jurídica en Colombia.
+
+2. Entender la equivalencia funcional y la validez legal de medios electrónicos.
+
+3. Analizar la responsabilidad ética y profesional en la transformación digital legal.
+
+4. Aplicar la normativa vigente al desarrollo y uso de soluciones LegalTech.
+
+Un marco legal claro y actualizado es la base para que las soluciones LegalTech sean confiables, seguras y ampliamente aceptadas. Sin reglas precisas sobre firmas electrónicas, documentos digitales o inteligencia artificial, tanto abogados como desarrolladores y usuarios quedarían en la incertidumbre jurídica. En este módulo, conocerás las principales leyes, decretos y circulares que han permitido la digitalización del derecho colombiano y su impacto en la práctica profesional y tecnológica.
+
+
+Términos clave sobre documentos electrónicos y normas
+
+Familiarízate con estos términos antes de explorar las normas relacionadas con documentos electrónicos y responsabilidad professional:
+
+¿Qué es la equivalencia funcional?
+Es el principio que otorga a los documentos electrónicos el mismo valor legal que a los documentos en papel.
+
+¿Cómo se define un documento electrónico?
+Es información generada, enviada o recibida por medios digitales, reconocida legalmente como prueba o contrato.
+
+¿Qué es una firma digital?
+Es un mecanismo criptográfico con validez legal que identifica al firmante y garantiza la integridad del documento.
+
+¿Qué es una firma electrónica?
+Es cualquier método electrónico que permite identificar a una persona en relación con un documento digital.
+
+¿Qué es una circular en el contexto normativo?
+Es una comunicación oficial de una entidad reguladora que aclara o establece directrices sobre la aplicación de normas.
+
+¿Qué implica la responsabilidad profesional?
+Es la obligación ética y legal de actuar con diligencia, transparencia y respeto a la ley en el ejercicio profesional.
+
+
+Normativa clave en el ecosistema LegalTech colombiano
+
+En el contexto LegalTech colombiano, diversas normas regulan el uso de tecnologías digitales en el ámbito legal. A continuación, se exploran en detalle las principales leyes y decretos, su alcance y su impacto en el sector.
+
+Ley 527/1999
+Regula la equivalencia funcional entre documentos electrónicos y físicos, el mensaje de datos y la validez de la firma electrónica. Aplica a cualquier persona o entidad que utilice medios digitales para contratos, comunicaciones o procesos legales. Permite que abogados, empresas y usuarios confíen en la legalidad de los documentos digitales, facilitando la transformación digital del sector.
+
+Ley 2213/2022
+Transforma la justicia digital en una realidad permanente, permitiendo el uso de medios electrónicos en trámites judiciales más allá de la emergencia sanitaria. Aplica a jueces, abogados y partes procesales. Impulsa la eficiencia y el acceso a la justicia, consolidando la digitalización como parte integral del sistema judicial colombiano.
+
+Decreto 806/2020
+Regula el expediente electrónico y el acceso remoto a la justicia, estableciendo procedimientos para la presentación y gestión digital de documentos judiciales. Aplica principalmente a operadores judiciales y litigantes. Facilita la continuidad de los procesos judiciales durante situaciones excepcionales y promueve la modernización del sistema.
+
+Decretos 2364/2012 y 333/2014
+Diferencian la firma digital de la firma electrónica, definiendo requisitos técnicos y legales para cada una. Aplica a quienes firman documentos digitales y a proveedores de servicios de certificación. Garantizan la seguridad y autenticidad de las firmas en el entorno digital, adaptando la normativa a las necesidades tecnológicas.
+
+Circular SIC 002/2024
+Establece directrices para el uso de inteligencia artificial y la protección de datos en servicios legales. Aplica a abogados, empresas LegalTech y desarrolladores de soluciones tecnológicas. Promueve la transparencia, la ética y la protección de los derechos de los usuarios en la adopción de nuevas tecnologías.
+
+Equivalencia funcional y validez legal de medios electrónicos
+
+La aplicación de la equivalencia funcional y la validez legal de los medios electrónicos permite que documentos y firmas digitales tengan efectos jurídicos similares a los tradicionales en papel, siempre que se cumplan ciertos requisitos. A continuación, se explican los conceptos clave y su aplicación práctica.
+
+EQUIVALENCIA FUNCIONAL
+El principio de equivalencia funcional significa que un documento electrónico puede cumplir la misma función legal que uno en papel, siempre que se garantice su integridad y autenticidad. Por ejemplo, un contrato firmado digitalmente tiene la misma fuerza probatoria que uno físico, siempre que cumpla los requisitos legales.
+Sin embargo, existen limitaciones: ciertos actos jurídicos, como testamentos o algunos contratos solemnes, pueden requerir formalidades adicionales o no admitir medios electrónicos. Es fundamental conocer estos límites para evitar nulidades o controversias.
+
+FIRMA ELECTRÓNICA VS. FIRMA DIGITAL
+La firma electrónica es un concepto amplio que abarca cualquier método que permita identificar al firmante en un entorno digital, como contraseñas, códigos o biometría. La firma digital, en cambio, utiliza mecanismos criptográficos y requiere un certificado digital emitido por una entidad autorizada.
+En la práctica, la firma digital ofrece mayor seguridad y presunción de autenticidad, por lo que suele ser exigida en trámites oficiales o documentos de alto valor jurídico. La firma electrónica es válida para muchos contratos privados, siempre que las partes la acepten.
+
+VALIDEZ Y CONSERVACIÓN DE DOCUMENTOS ELECTRÓNICOS
+Para que un documento electrónico sea válido, debe garantizarse su integridad (que no ha sido alterado) y autenticidad (que proviene de quien dice provenir). Esto se logra mediante firmas digitales, sellos de tiempo y sistemas de gestión documental certificados.
+Además, la conservación de documentos electrónicos debe cumplir con los plazos y condiciones establecidos por la ley, asegurando su disponibilidad y legibilidad en el tiempo. La correcta gestión documental es clave para la defensa de derechos y la seguridad jurídica.
+
+
+Introducción a la validación legal de soluciones LegalTech en Colombia
+
+Validar la legalidad de una solución LegalTech requiere un enfoque sistemático que combine conocimientos jurídicos y tecnológicos. Sigue estos pasos para asegurar el cumplimiento normativo y la confianza de tus usuarios.
+
+Identificar la función legal
+Define claramente qué función cumple la herramienta: ¿firma documentos, autentica usuarios, gestiona expedientes o almacena pruebas digitales? Esto determinará la norma aplicable.
+
+Revisar la norma aplicable
+Consulta las leyes y decretos relevantes según el tipo de solución y el sector en el que se implementa. Por ejemplo, para firmas digitales, revisa la Ley 527/1999 y los Decretos 2364/2012 y 333/2014.
+
+Verificar requisitos técnicos y de seguridad
+Asegúrate de que la solución cumple con los estándares de integridad, autenticidad y confidencialidad exigidos por la normativa. Considera la certificación de proveedores y la protección de datos personales.
+
+Documentar procesos regulatorios
+Registra y documenta los procedimientos internos para demostrar cumplimiento ante auditorías o requerimientos legales. Incluye políticas de privacidad, términos y condiciones y manuales de uso.
+
+Evaluar responsabilidad profesional y ética
+Analiza los riesgos éticos y legales asociados al uso de la tecnología, como el deber de competencia tecnológica, la transparencia y la protección de los derechos del usuario.
+
+Mantenerse actualizado
+Monitorea circulares, resoluciones y cambios normativos que puedan afectar la solución. La actualización constante es clave para evitar sanciones y mantener la confianza del mercado.
+
+Resumen de la validación legal de soluciones LegalTech
+Seguir estos pasos te permitirá desarrollar y operar soluciones LegalTech alineadas con la ley, minimizando riesgos y maximizando el valor para usuarios y clients
+
+
+La responsabilidad profesional en el LegalTech no termina con el cumplimiento formal: implica ética, transparencia y protección del usuario.
+
+
+Riesgos y responsabilidades de los actores del LegalTech ante la ley
+
+En el ecosistema LegalTech, distintos actores enfrentan riesgos y responsabilidades específicas según su rol. A continuación, se detallan los principales aspectos legales y éticos que deben considerar abogados, desarrolladores, emprendedores y usuarios.
+
+
+Abogados
+Los abogados deben demostrar competencia tecnológica y ética profesional, asumiendo riesgos si no cumplen con la normativa vigente. El desconocimiento puede llevar a sanciones disciplinarias o a la invalidez de actos jurídicos.
+
+Es fundamental mantenerse actualizado y colaborar con expertos en tecnología para garantizar la seguridad y legalidad de los servicios ofrecidos.
+
+Desarrolladores
+Los desarrolladores son responsables por fallos técnicos que puedan afectar la validez o seguridad de las soluciones. Deben proteger los datos personales y trabajar en conjunto con abogados para cumplir los requisitos legales.
+
+La colaboración interdisciplinaria es clave para evitar demandas o sanciones regulatorias.
+
+Emprendedores
+Quienes lanzan soluciones LegalTech deben garantizar términos y condiciones claros, políticas de privacidad y cumplimiento sectorial. El desconocimiento normativo puede generar multas o el cierre del negocio.
+
+Invertir en asesoría legal y en la actualización constante es esencial para el éxito y la sostenibilidad.
+
+Usuarios/Clientes
+Los usuarios tienen derecho a la seguridad de su información, a la validez de los documentos que firman y a recibir información clara sobre el funcionamiento de las soluciones.
+
+Es recomendable que verifiquen la legalidad y reputación de las plataformas antes de utilizarlas para actos jurídicos relevantes.
+

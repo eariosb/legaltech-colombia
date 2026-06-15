@@ -1,0 +1,78 @@
+Hace unos días, alguien publicó en una red social una captura de pantalla que me dejó helado. Era un mensaje que la mayoría desliza por inercia sin leer, con letras diminutas acechando al final de un contrato digital: "Al continuar, acepta que Meta utilice su ubicación aproximada, contactos, patrones de actividad y contenido de sus chats para entrenar nuestros sistemas de inteligencia artificial".
+
+Lo peor no era el mensaje en sí. Era que quien lo publicó escribió encima: "¿Alguien más recibió esto?".
+
+Y yo me quedé en silencio, porque la pregunta honesta es otra: ¿cuántos de nosotros lo vimos? ¿Cuántos lo aceptamos? ¿Y en qué momento dejar de leer se convirtió en consentimiento?
+
+🔍 Esto es más serio de lo que parece
+Meta (la empresa detrás de WhatsApp, Instagram y Facebook) está usando nuestras conversaciones, contactos, ubicación y horarios de actividad para entrenar a su inteligencia artificial. No son rumores. No son teorías conspirativas.
+
+A partir del 27 de mayo de 2025, la compañía comenzó a recopilar datos personales de usuarios para mejorar sus modelos de IA, incluyendo Llama 3. En América Latina, entre ellos Colombia, este proceso ya está en marcha. Y aunque la empresa ha repetido que las conversaciones cifradas punto a punto no se utilizan —un detalle importante—, sí pueden aprovechar todo lo demás: con quién hablamos, a qué hora, desde qué ubicación aproximada, qué tipo de temas nos interesan, hasta con qué frecuencia abrimos la app.
+
+🧠 ¿Qué está pasando realmente?
+WhatsApp se volvió parte de nuestro día a día. Ahí cerramos acuerdos laborales, compartimos fotos familiares, enviamos audios a las 3 a.m. y hasta discutimos sobre política con ese contacto insoportable al que no podemos bloquear porque es familia.
+
+Y Meta quiere leer todo eso.
+
+No palabra por palabra (eso, en teoría, sigue cifrado), sino en patrones: la recurrencia con la que contactamos a ciertos números, los temas que tratamos con cada persona, nuestra rutina diaria rastreable por horarios de actividad, e incluso dónde estamos aproximadamente mientras escribimos. Así, estos patrones moldean el "círculo azul" de Meta AI que ahora está integrado por defecto en WhatsApp. En la práctica, cada interacción que tengas con ese asistente —incluso la más trivial— alimenta directamente el algoritmo. Aunque intentes evitarlo, no existe un botón mágico en los ajustes para "apagar Meta AI de forma global".
+
+⚖️ ¿Pero no es ilegal? ¿No pidieron permiso?
+Aquí empieza lo turbio.
+
+En Europa, las cosas funcionan distinto gracias al Reglamento General de Protección de Datos (GDPR). Allí, Meta tuvo que pausar su plan en junio de 2024 por problemas de cumplimiento, y cuando finalmente lo lanzó, tuvieron que habilitar un formulario de objeción que permite a los usuarios decir "no quiero que usen mis datos". Organizaciones de consumidores como OCU ya denunciaron a Meta ante las autoridades españolas por falta de transparencia.
+
+En Suramérica, la historia es otra.
+
+Aquí, el derecho al hábeas data está consagrado en la Constitución y desarrollado por la Ley 1581 de 2012. En teoría, el tratamiento de datos personales requiere autorización previa e informada del titular. Punto.
+
+En la práctica, una vez más nos encontramos con que el "consentimiento" se obtiene en un aviso legal que nadie lee, justo después de descargar la app. Y aunque la Superintendencia de Industria y Comercio (SIC) abrió una investigación sobre WhatsApp, lo hizo recién en abril de 2026. Colombia, que según el foro Legal Spotlight 2026 es el segundo país de América Latina con mayor preparación en legaltech, aún no tiene ni una resolución firme al respecto.
+
+🌍 El doble rasero geográfico
+La verdadera indignación está en la disparidad de trato.
+
+Si eres europeo: recibiste notificaciones claras, tienes un formulario de objeción accesible y la posibilidad real de negarte. Las autoridades de protección de datos ya están encima del tema.
+
+Si eres colombiano, argentino o mexicano: la opción de oposición "no existe en Latinoamérica por diferencias de regulación", según reconoció la propia compañía, y lo poco que existe no garantiza que tus datos hayan quedado realmente excluidos del entrenamiento.
+
+Dicho sin rodeos: Meta cree que en América Latina nuestras leyes de protección de datos son más débiles —o su enforcement es casi nulo— y actúa en consecuencia. No les tiembla el pulso.
+
+⛓️ Lo que está en juego para el ecosistema legaltech colombiano
+En este preciso momento, mientras escribo esto, en Colombia se debate una reforma a la Ley de Protección de Datos que busca incorporar nuevas bases legales para el tratamiento automatizado de información y, sobre todo, reconocer el derecho a no ser sometido a decisiones basadas únicamente en algoritmos.
+
+Y sin embargo, el ecosistema legaltech colombiano —que hoy es el segundo más activo de América Latina— se enfrenta a un desafío brutal. Por un lado, sus herramientas de gestión contractual, cumplimiento normativo y análisis de riesgos dependen de la inteligencia artificial para ser competitivas. Por otro, no pueden convertirse en cómplices de un expolio silencioso de datos.
+
+La pregunta que debemos hacernos como profesionales del derecho y la tecnología es clara: ¿vamos a seguir construyendo soluciones legales sobre bases de datos que fueron obtenidas sin consentimiento real? ¿Nuestras propias plataformas van a mitigar riesgos legales para terceros mientras nosotros mismos operamos en una zona gris?
+
+No se trata de frenar la innovación. Se trata de alinear nuestra innovación con los principios que predicamos.
+
+🧭 ¿Qué podemos hacer ahora?
+Ejercer nuestros derechos, aunque sean más difíciles. La SIC ha establecido lineamientos claros para el tratamiento de datos personales en sistemas de IA, basados en criterios como idoneidad y proporcionalidad. Si una empresa con sede fuera del país no los respeta, tenemos derecho a reclamar. No será fácil, pero es necesario.
+
+Exigir transparencia. Las grandes tecnológicas deben revelar qué datos nuestros están utilizando y bajo qué fundamento legal. El GDPR europeo ya lo exige. Nuestro ecosistema legaltech puede desarrollar herramientas que automaticen estas auditorías y las hagan accesibles para todos.
+
+Construir alternativas locales. El auge del legaltech en Colombia no puede depender exclusivamente de infraestructura de datos ajena. Necesitamos soluciones propias, respetuosas con el hábeas data, que demuestren que se puede innovar sin vulnerar derechos fundamentales. Las guías éticas para el uso de IA en el sector público son un primer paso en esa dirección.
+
+🔥 El fondo del asunto
+Meta no nos está robando los datos en el sentido tradicional. No hay un hacker encapuchado extrayendo información de nuestros teléfonos. Lo que ocurre es más sutil y, por lo tanto, más peligroso: nos están haciendo aceptar algo que no entendemos del todo, bajo la excusa de que "aceptamos los términos y condiciones".
+
+Y eso, con perdón, no es consentimiento. Es rendición.
+
+El derecho al hábeas data en Colombia es claro: toda persona tiene derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ella. Y también, en principio, a oponerse. El quid de la cuestión es que no existe una autoridad supranacional que le exija a cumplir las mismas reglas en Medellín que en Madrid.
+
+💬 Y ahora, algunas preguntas dolorosas
+No tengo todas las respuestas. Pero sí creo que estamos obligados a hacernos estas preguntas, aquí y ahora:
+
+¿Por qué permitimos que la vigilancia masiva entre por la puerta de atrás, camuflada como "asistente virtual" y "mejora de la experiencia"?
+
+¿Por qué en Suramérica parece que aceptamos migajas mientras en Europa se exige pleno derecho?
+
+¿Por qué los abogados y tecnólogos no hemos alzado la voz con más fuerza?
+
+¿En qué momento el "términos y condiciones" se convirtió en sinónimo de "todo vale"?
+
+¿Dónde está el rol activo del Estado colombiano para asegurar que sus ciudadanos no sean tratados como ciudadanos de segunda categoría digital?
+
+No se trata de tener miedo a la inteligencia artificial. Se trata de exigir que esa inteligencia, precisamente por ser inteligente, aprenda a respetar los límites que la ley le impone.
+
+Y si la ley aún es difusa, entonces nuestra tarea es clara: construirla.
+
