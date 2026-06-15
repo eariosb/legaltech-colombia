@@ -18,14 +18,15 @@ The LegalTech Colombia Framework provides structured documentation and reference
 The repository includes a Next.js web application for browsing documentation, case blogs, and interactive compliance checkers, alongside engineering best practices for hybrid R/Python LegalTech stacks.
 
 ## Repository Structure
-├── app/ # Next.js App Router (pages, layouts, API routes)
-├── components/ # Reusable UI components (cards, tables, visualizations)
-├── data/ # Static content: blog cases, regulatory timelines
-├── docs/ # Course modules and normative references (Markdown)
-├── public/ # Static assets (icons, PDF templates)
-├── styles/ # Global CSS with LegalTech design system
-├── lib/ # Utility functions, data fetching, validation
-└── references/ # Manuals: engineering guide, case format, aesthetics
+
+- `app/` – Next.js App Router (pages, layouts, API routes)
+- `components/` – Reusable UI components (cards, tables, visualizations)
+- `data/` – Static content: blog cases, regulatory timelines
+- `docs/` – Course modules and normative references (Markdown)
+- `public/` – Static assets (icons, PDF templates)
+- `styles/` – Global CSS with LegalTech design system
+- `lib/` – Utility functions, data fetching, validation
+- `references/` – Manuals: engineering guide, case format, aesthetics
 
 text
 
